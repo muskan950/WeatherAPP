@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #222;
+}
+.card{
+    width: 90%;
+    max-width: 470px;
+    background:linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(0, 212, 255, 1) 63%, rgba(9, 9, 151, 1) 100%);
+    color: #fff;
+    margin: 100px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align: center;
+}
+.search{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search input{
+   border: 0;
+   outline: 0;
+   background: #ebfffc;
+   color: #555;
+   padding: 10px 25px;
+   height: 60px;
+   border-radius: 30px;
+   flex: 1;
+   margin-right: 16px;
+   font-size: 18px; 
+}
+.search button{
+  border: 0;
+   outline: 0;
+   background: #ebfffc;
+   border-radius: 50%;
+   width: 60px;
+   height: 60px;
+   cursor: pointer;   
+}
+.search button i{
+    width: 16px;
+    font-size: 20px;
+}
+.weather img{
+    font-size: 85px;
+  margin-top: 30px;
+  width: 170px;
+}
+.weather h1{
+    font-size: 80px;
+    font-weight: 500;
+}
+.weather h2{
+    font-size:45px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 50px;
+}
+ .col{
+    display: flex;
+    align-items: center;
+    text-align: left;
+} 
+ .col img{
+    color: white;
+  width: 40px;
+  margin-right: 10px;
+  margin-bottom: 25px;
+} 
+   
+.humidity,.wind{
+    margin-top: -6px;
+    font-size: 28px;
+}
+.weather{
+    display:none;
+}
+.error{
+    text-align: center;
+  margin-left: 10px;
+  font-size: 20px;
+  margin-top: 20px;
+  display: none;
+  margin-right: 20px;
+}
+body.dark-mode {
+  background-color: #111;
+  color: white;
+}
+
+body.dark-mode .card {
+  background: linear-gradient(135deg, #1f1f1f, #333333);
+  color: white;
+}
+
+body.dark-mode .search input {
+  background: #333;
+  color: white;
+}
+
+body.dark-mode .search button {
+  background: #333;
+  color: white;
+}
+
+body.dark-mode .mode {
+  background: white;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  width: 100px;
+  height: 20px;
+}
+
+body.dark-mode .mode i {
+  color: orange;
+}
+
+.mode i{
+    color: yellow;
+}
