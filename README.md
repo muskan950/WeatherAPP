@@ -8,9 +8,4 @@ A stylish and feature rich " Weather APP " that gives current weather update of 
   - 🌙 Switch between ** Light and  Dark mode **
   -  🌈 Update ** According to weather **
   -  🌀 Update ** Humidity **
-<<<<<<< HEAD
-  - 🍃༄ Update ** Wind Speed **# WeatherAPP
-  - 
-=======
-  - 🍃༄ Update ** Wind Speed **
->>>>>>> fe4aabb (update files)
+>Demo-(https://muskan950.github.io/WeatherAPP/)
