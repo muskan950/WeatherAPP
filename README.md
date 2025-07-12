@@ -9,4 +9,4 @@ A stylish and feature rich " Weather APP " that gives current weather update of 
   -  🌈 Update ** According to weather **
   -  🌀 Update ** Humidity **
   - 🍃༄ Update ** Wind Speed **# WeatherAPP
-  - demo:(https://muskan950.github.io/WeatherAPP/)
+  - 
