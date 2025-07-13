@@ -32,4 +32,4 @@ A stylish and feature rich " Weather APP " that gives current weather update of 
 +  │   └── style.css
 +  |__Image.jpg
 + ---
-+ 
+
