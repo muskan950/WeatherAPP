@@ -25,11 +25,11 @@ A stylish and feature rich " Weather APP " that gives current weather update of 
 + ---
 + ## 📁 Project Structure
 + weatherAPP
-+ ├── index.html
++  ├── index.html
 +  ├── script/
 +  │   └── script.js
 +  ├── style/
 +  │   └── style.css
 +  |__Image.jpg
-+ ---
+   ---
 
