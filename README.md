@@ -1,4 +1,4 @@
-# WeatherAPP
+# 🌦️ WeatherAPP
 # ⚡ Let's Know Weather
 A stylish and feature rich " Weather APP " that gives current weather update of different cities , Humidity , Wind speed,theme-toggle,icons according to weather.
 >  Made with 💗 by Muskan Rathore
