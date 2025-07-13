@@ -24,6 +24,8 @@ A stylish and feature rich " Weather APP " that gives current weather update of 
 
 + ---
 + ## 📁 Project Structure
++
++ ```
 + weatherAPP
 +  ├── index.html
 +  ├── script/
@@ -31,5 +33,5 @@ A stylish and feature rich " Weather APP " that gives current weather update of 
 +  ├── style/
 +  │   └── style.css
 +  |__Image.jpg
-   ---
++    ---
 
