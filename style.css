@@ -96,6 +96,16 @@ body{
   display: none;
   margin-right: 20px;
 }
+.mode{
+  height: 31px;
+    width: 85px;
+    background-color: white;
+    border: none;
+    border-radius: 15%;
+}
+.mode i{
+  color: orange;
+}
 body.dark-mode {
   background-color: #111;
   color: white;
@@ -131,4 +141,56 @@ body.dark-mode .mode i {
 
 .mode i{
     color: yellow;
+}
+@media (max-width:640px) {
+  body{
+    margin-top: -121px;
+  }
+  .card{
+  width: 92%;
+    max-width: 470px;
+    background: linear-gradient(90deg,rgb(2, 0, 36) 0%, rgb(0, 212, 255) 63%, rgb(61, 61, 99) 100%);
+    color: #fff;
+    margin: 100px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align: center;
+}
+  .search{
+    width: 110%;
+    display: flex;
+}
+.search input{
+   background: #ebfffc;
+    color: #555;
+    margin-left: -20px;
+    border-radius: 5%;
+    height: 57px;
+}
+.search button{
+  order: 0;
+  outline: 0;
+  background: #ebfffc;
+  border-radius: 9%;
+  width: 80px;
+  height: 55px;
+  cursor: pointer;
+  margin-left: -15px;
+}
+.details {
+  gap: 21px;
+}
+.humidity,.wind{
+  margin-top: -6px;
+}
+.mode{
+  height: 31px;
+    width: 85px;
+    background-color: white;
+    border: none;
+    border-radius: 15%;
+}
+.mode i{
+  color: orange;
+}
 }
