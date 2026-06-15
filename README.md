@@ -4,6 +4,7 @@ A stylish and feature rich " Weather APP " that gives current weather update of 
 >  Made with 💗 by Muskan Rathore
 > ---
 + ## 💡 Features
++ - 📱 Responsive UI for **all** screen Sizes
 + - 🔍 Search by **City Name**
 + - 🌙 Switch between **Light and  Dark mode**
 +  - ☁  Image Update **According to weather**
